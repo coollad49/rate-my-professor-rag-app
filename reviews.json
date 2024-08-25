@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Johnson",
+            "subject": "Computer Science",
+            "stars": 8,
+            "review": "Dr. Johnson is very knowledgeable, but her lectures can be a bit fast-paced."
+        },
+        {
+            "professor": "Dr. Michael Smith",
+            "subject": "Mathematics",
+            "stars": 9,
+            "review": "Explains concepts clearly and always available for extra help."
+        },
+        {
+            "professor": "Dr. Sarah Lee",
+            "subject": "Physics",
+            "stars": 7,
+            "review": "Good professor, but the grading is tough. Make sure you study hard!"
+        },
+        {
+            "professor": "Dr. John Doe",
+            "subject": "History",
+            "stars": 6,
+            "review": "Engaging lectures, but sometimes hard to follow."
+        },
+        {
+            "professor": "Dr. Olivia Davis",
+            "subject": "Chemistry",
+            "stars": 5,
+            "review": "Very strict with lab work, but you learn a lot."
+        },
+        {
+            "professor": "Dr. William Brown",
+            "subject": "Philosophy",
+            "stars": 9,
+            "review": "Amazing lectures! Makes complex ideas easy to understand."
+        },
+        {
+            "professor": "Dr. Ava Wilson",
+            "subject": "Biology",
+            "stars": 7,
+            "review": "Good professor, but attendance is crucial for success."
+        },
+        {
+            "professor": "Dr. James Martinez",
+            "subject": "Economics",
+            "stars": 8,
+            "review": "Well-structured lectures and relevant examples. Tests are challenging but fair."
+        },
+        {
+            "professor": "Dr. Isabella Anderson",
+            "subject": "Literature",
+            "stars": 6,
+            "review": "Passionate about the subject, but the workload is heavy."
+        },
+        {
+            "professor": "Dr. Alexander White",
+            "subject": "Political Science",
+            "stars": 7,
+            "review": "Interesting topics, but the lectures can be dry at times."
+        },
+        {
+            "professor": "Dr. Mia Thomas",
+            "subject": "Sociology",
+            "stars": 9,
+            "review": "Fantastic professor! Makes the subject very relatable and interesting."
+        },
+        {
+            "professor": "Dr. Ethan Harris",
+            "subject": "Engineering",
+            "stars": 8,
+            "review": "Challenging courses, but Dr. Harris is always willing to help students succeed."
+        },
+        {
+            "professor": "Dr. Sophia Clark",
+            "subject": "Psychology",
+            "stars": 7,
+            "review": "Engaging lectures, but the exams are quite difficult."
+        },
+        {
+            "professor": "Dr. Benjamin Lewis",
+            "subject": "Statistics",
+            "stars": 6,
+            "review": "Clear explanations, but the pace of the course is very fast."
+        },
+        {
+            "professor": "Dr. Emma Walker",
+            "subject": "Art History",
+            "stars": 9,
+            "review": "Passionate and knowledgeable. Makes the subject come alive."
+        },
+        {
+            "professor": "Dr. Lucas King",
+            "subject": "Music",
+            "stars": 8,
+            "review": "Great professor! Very approachable and talented."
+        },
+        {
+            "professor": "Dr. Charlotte Hall",
+            "subject": "Anthropology",
+            "stars": 7,
+            "review": "Interesting lectures, but the assignments are time-consuming."
+        },
+        {
+            "professor": "Dr. Henry Scott",
+            "subject": "Environmental Science",
+            "stars": 8,
+            "review": "Dr. Scott is very passionate about the environment. His field trips are the best part of the class."
+        },
+        {
+            "professor": "Dr. Grace Green",
+            "subject": "Linguistics",
+            "stars": 7,
+            "review": "Insightful lectures, but the exams are quite challenging."
+        },
+        {
+            "professor": "Dr. Jack Baker",
+            "subject": "Philosophy",
+            "stars": 9,
+            "review": "Thought-provoking lectures and encourages critical thinking."
+        }
+    ]
+}
